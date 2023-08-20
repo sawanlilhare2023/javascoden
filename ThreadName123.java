@@ -16,7 +16,7 @@ public class ThreadName123 {
         System.out.println(Thread.currentThread().getName());
        // System.out.println(m.getName());
         m.setName("New Thread");
-        //System.out.println(m.getName());
-        //System.out.println("main thread");
+        System.out.println(m.getName());
+        System.out.println("main thread");
     }
 }
