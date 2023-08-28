@@ -16,5 +16,6 @@ public class DemTest {
 
             System.out.println("main thread");
         }
+        System.out.println("Hello");
     }
 }
