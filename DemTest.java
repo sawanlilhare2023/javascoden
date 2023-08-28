@@ -14,7 +14,9 @@ public class DemTest {
         t.start();
         for(int i = 0;i<5;i++){
 
-            System.out.println("main thread");
+            //System.out.println("main thread");
+            System.out.println("main thread2");
+
         }
     }
 }
