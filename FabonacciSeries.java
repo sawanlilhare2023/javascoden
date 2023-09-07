@@ -9,13 +9,7 @@ public class FabonacciSeries {
             System.out.println("" +temp);
             a=b;
             b=temp;
-
-
-
         }
-
-
-
+        System.out.println("Hello world");
     }
-
 }
